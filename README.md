@@ -9,4 +9,4 @@ Team members: (i)   Nikita Sure
 Team projects:  (i)  Calendar using GUI
                 (ii) Finance Management System (W/ or W/O GUI)
                 
-Team progress: DOS-based Bank Management System created. The layout has been framed using GUI. Overall, a robust look lacking just linking DOS and GUI to respective actions.
+Team progress: DOS-based Bank Management System created. The layout has been framed using GUI. Overall, a robust look, lacking just the linking of DOS and GUI to respective actions.
